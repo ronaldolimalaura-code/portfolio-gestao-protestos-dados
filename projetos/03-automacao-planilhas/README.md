@@ -1,18 +1,19 @@
 # 03 — Automação de Planilhas
 
-## Objetivo
+## Contexto profissional
+Projeto voltado a tarefas repetitivas de organização, conferência e consolidação de planilhas.
 
-Transformar tarefas repetitivas de organização e consolidação de planilhas em um processo automatizado.
-
-## Exemplo de fluxo
-
-1. Ler arquivos.
+## Fluxo
+1. Importar arquivos.
 2. Padronizar colunas.
-3. Validar campos.
-4. Consolidar bases.
-5. Identificar duplicidades.
-6. Gerar relatório final.
+3. Limpar dados.
+4. Identificar duplicidades.
+5. Validar campos.
+6. Consolidar informações.
+7. Gerar relatório.
 
 ## Resultado esperado
+Reduzir trabalho manual, melhorar a padronização e facilitar a conferência.
 
-Redução de trabalho manual e maior padronização dos dados.
+## Tecnologias
+Python · Pandas · Excel · OpenPyXL
