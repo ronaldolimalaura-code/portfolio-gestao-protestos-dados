@@ -1,17 +1,17 @@
 # 04 — Controle de Fluxo de Protestos
 
-## Objetivo
+## Contexto profissional
+Projeto para representar visualmente um processo operacional semelhante às etapas acompanhadas na rotina profissional.
 
-Representar de forma visual e mensurável as etapas de um processo operacional.
+## Fluxo
+**Cadastro → Documentação → Conferência → Validação → Produção → Envio → Acompanhamento**
 
-## Etapas
-
-Cadastro → Documentação → Validação → Produção → Envio → Conclusão
-
-## Indicadores possíveis
-
+## Indicadores
+- Processos por etapa.
+- Pendências.
 - Tempo médio por etapa.
-- Quantidade de pendências.
-- Cadastros concluídos.
-- Cadastros em validação.
+- Processos concluídos.
 - Volume por período.
+
+## Competências
+Mapeamento de processos, acompanhamento operacional e criação de indicadores.
