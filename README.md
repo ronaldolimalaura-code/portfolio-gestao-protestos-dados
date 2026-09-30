@@ -79,6 +79,21 @@ Os projetos demonstram a evolução dessas competências com Excel, Python, Pand
 
 **Planilhas e bases → Tratamento → Validação → Banco de dados → Dashboard → Automação**
 
+
+---
+
+## 🤝 Colaboração e referência técnica
+
+### Anderson Ayora — Data Scientist | Data Engineer | Especialista em Tecnologia Notarial
+
+Durante minha evolução profissional e tecnológica, tive contato e participação em projetos relacionados a dados, automação e tecnologia em colaboração com **Anderson Ayora**.
+
+**Referência profissional:** [GitHub — Ayorinha](https://github.com/Ayorinha)
+
+O perfil público de Anderson Ayora apresenta projetos envolvendo **OCR, Python, automação de dados/RPA, análise de dados e tecnologia aplicada ao setor notarial**. Entre os projetos públicos apresentados estão *OCR-Python*, *OCRWinRT-CSharp*, *global-tech-news-ai*, *K-Means-Clustering-Iris-Dataset* e *hybrid-data-management-rpa-pipeline*. citeturn0view0
+
+> **Nota de precisão:** a relação acima identifica projetos públicos do perfil de referência. As contribuições específicas de Ronaldo em cada projeto serão descritas individualmente somente quando estiverem confirmadas.
+
 ---
 
 ## 🔐 Segurança
