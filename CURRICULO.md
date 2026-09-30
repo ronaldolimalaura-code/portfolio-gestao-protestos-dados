@@ -80,3 +80,18 @@ Todos os projetos devem utilizar dados fictícios ou anonimizados.
 ## Objetivo profissional
 
 Ampliar a atuação na área de **dados, processos, automação e tecnologia**, aproveitando a experiência operacional para criar soluções que melhorem organização, produtividade, qualidade e confiabilidade das informações.
+
+---
+
+## 🤝 Referência profissional e colaboração em tecnologia
+
+### Anderson Ayora
+**Data Scientist | Data Engineer | Especialista em Tecnologia Notarial**
+
+Referência profissional relacionada à minha evolução e participação em projetos de dados, automação e tecnologia.
+
+**GitHub:** https://github.com/Ayorinha
+
+O perfil público apresenta projetos nas áreas de OCR, Python, automação/RPA, análise de dados e tecnologia notarial, incluindo *OCR-Python*, *OCRWinRT-CSharp*, *global-tech-news-ai*, *K-Means-Clustering-Iris-Dataset* e *hybrid-data-management-rpa-pipeline*. citeturn0view0
+
+**Importante:** as contribuições específicas de Ronaldo em cada projeto serão registradas individualmente após confirmação, para manter o currículo fiel à participação profissional real.
