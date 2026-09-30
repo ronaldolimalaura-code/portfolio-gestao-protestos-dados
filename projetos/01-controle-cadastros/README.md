@@ -1,18 +1,22 @@
 # 01 — Sistema de Controle de Cadastros
 
-## Objetivo
+## Contexto profissional
+Projeto inspirado na rotina de cadastro e controle de empresas, bancos, prefeituras e condomínios.
 
-Criar uma estrutura para acompanhar cadastros, documentação, pendências e status operacional.
+## Objetivo
+Criar uma solução para controlar o ciclo cadastral, documentação, pendências e situação de cada registro.
 
 ## Funcionalidades
-
 - Cadastro de entidades.
-- Controle de status.
-- Registro de documentação.
-- Identificação de pendências.
+- Categoria do apresentante.
+- Controle de situação.
+- Controle documental.
+- Registro de pendências.
 - Histórico de alterações.
-- Filtros por categoria e etapa.
+- Filtros e pesquisas.
 
-## Evolução sugerida
+## Evolução
+**Excel → Python/Pandas → SQL → Aplicação web**
 
-Excel → Python/Pandas → Banco SQL → Aplicação web.
+## Competências
+Gestão cadastral, organização, controle operacional e qualidade de dados.
