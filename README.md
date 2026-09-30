@@ -1,177 +1,114 @@
-# 👋 Ronaldo Lima
+# 👤 Ronaldo Lima — Portfólio Profissional
 
-## Gestão de Dados • Processos • Cadastros • Automação
+## Gestão de Cadastros • Dados • Processos • Automação
 
-Profissional com **13 anos de experiência no IEPTB-SP**, atuando na organização de cadastros, documentação, dados, planilhas e processos operacionais relacionados ao envio de protestos.
+Profissional com **13 anos de experiência no IEPTB-SP**, com atuação prática em cadastro de empresas, bancos, prefeituras e condomínios, organização documental, tratamento de dados, planilhas e acompanhamento de processos operacionais.
 
-> **Meu objetivo neste portfólio é transformar experiência operacional em soluções digitais, organizadas, mensuráveis e automatizadas.**
-
----
-
-## 🎯 Sobre mim
-
-- 🗂️ Gestão e controle de cadastros
-- 🏢 Cadastro de empresas, bancos, prefeituras e condomínios
-- 📊 Organização e tratamento de grandes bases de dados
-- 📑 Conferência e vinculação de documentação
-- 📈 Controle e manutenção de planilhas
-- 🔄 Acompanhamento de processos operacionais
-- 🔐 Tratamento responsável de informações sensíveis
-- 🧩 Organização de bases de governos e CNPJs
-- 🤝 Interface com áreas de gestão e superintendência
-- ⚙️ Busca por automação e melhoria de processos
+> **Objetivo:** transformar experiência operacional em soluções digitais, organizadas, mensuráveis e automatizadas.
 
 ---
 
-## 💼 Currículo
+## 💼 Experiência profissional
 
 ### IEPTB-SP — 13 anos
 
-Atuação em processos de cadastro e operação de empresas, bancos, prefeituras e condomínios conveniados para envio de protestos.
-
-**Principais responsabilidades:**
-
-| Área | Atuação |
-|---|---|
-| Cadastros | Inclusão, atualização e controle de registros |
-| Plataformas | Operação em quatro plataformas de protesto |
-| Documentação | Conferência e vinculação de documentos |
-| Dados | Organização, tratamento e validação de bases |
-| Planilhas | Controle, atualização e consolidação |
-| Processos | Acompanhamento até o início da produção |
-| Governos | Organização de bases e classificação de CNPJs |
-| Gestão | Interface com áreas responsáveis e superintendência |
-
-### 📄 Currículo completo
-
-➡️ **[Ver meu currículo](CURRICULO.md)**
+- Cadastro e atualização de empresas, bancos, prefeituras e condomínios.
+- Operação em quatro plataformas de protesto.
+- Controle e manutenção de planilhas cadastrais.
+- Conferência e vinculação de documentação.
+- Tratamento responsável de informações sensíveis.
+- Acompanhamento do processo até o início da produção.
+- Organização de bases envolvendo governos e CNPJs.
+- Identificação e acompanhamento de pendências.
+- Interface com áreas de gestão e superintendência.
+- Apoio à organização e melhoria dos processos.
 
 ---
 
-## 🚀 Projetos do portfólio
+## 🎯 Minha área profissional
 
-### 01 · 🗂️ Sistema de Controle de Cadastros
-Estrutura para controlar cadastros, documentos, pendências, status e histórico.
+**Operação + Dados + Processos + Tecnologia**
 
-**Foco:** gestão operacional · organização · rastreabilidade
-
-➡️ [Ver projeto](projetos/01-controle-cadastros/README.md)
-
-### 02 · 📊 Dashboard de CNPJs e Governos
-Organização e classificação de bases fictícias de CNPJs e categorias de governo.
-
-**Foco:** dados · classificação · indicadores
-
-➡️ [Ver projeto](projetos/02-dashboard-cnpjs-governos/README.md)
-
-### 03 · ⚙️ Automação de Planilhas
-Automação de tarefas repetitivas de limpeza, padronização, consolidação e geração de relatórios.
-
-**Foco:** produtividade · automação · qualidade
-
-➡️ [Ver projeto](projetos/03-automacao-planilhas/README.md)
-
-### 04 · 🔄 Controle de Fluxo de Protestos
-Modelo visual para acompanhar etapas, pendências, prazos e conclusão de processos.
-
-**Foco:** processos · controle · indicadores
-
-➡️ [Ver projeto](projetos/04-fluxo-protestos/README.md)
-
-### 05 · 🔎 Validador de CNPJ
-Projeto didático para validação estrutural e apoio à qualidade de bases cadastrais.
-
-**Foco:** validação · qualidade de dados · automação
-
-➡️ [Ver projeto](projetos/05-validador-cnpj/README.md)
-
-### 06 · 📈 Dashboard Operacional
-Painel para acompanhar produtividade, cadastros, pendências e evolução por período.
-
-**Foco:** indicadores · análise · gestão
-
-➡️ [Ver projeto](projetos/06-dashboard-operacional/README.md)
+Experiência operacional → Organização de dados → Padronização → Automação → Indicadores → Melhoria contínua
 
 ---
 
-## 🧠 Competências
+## 🧩 Competências
 
-**Gestão de dados**  
-Organização, classificação, conferência, padronização e controle de informações.
+### Gestão operacional
+Controle de cadastros · acompanhamento de processos · pendências · conferência · organização de rotinas
 
-**Processos**  
-Mapeamento de etapas, identificação de pendências e acompanhamento operacional.
+### Dados
+Organização de bases · classificação · padronização · conferência · CNPJs · bases governamentais
 
-**Planilhas e análise**  
-Estruturação de bases, consolidação, filtros, relatórios e indicadores.
+### Documentação
+Conferência · vinculação · organização · controle documental
 
-**Automação**  
-Identificação de tarefas repetitivas e transformação em fluxos automatizados.
-
-**Documentação**  
-Conferência, organização e vinculação de documentos aos respectivos cadastros.
+### Tecnologia e evolução
+Os projetos demonstram a evolução dessas competências com Excel, Python, Pandas, SQL, Power BI, Git, GitHub e Mermaid.
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## 🚀 Projetos
 
-Excel · Python · Pandas · SQL · Power BI · Git · GitHub · Mermaid
+| Projeto | Área | Objetivo |
+|---|---|---|
+| 🗂️ Controle de Cadastros | Cadastro | Controlar registros, documentos e pendências |
+| 📊 CNPJs e Governos | Dados | Organizar e classificar bases |
+| ⚙️ Automação de Planilhas | Automação | Reduzir tarefas repetitivas |
+| 🔄 Fluxo de Protestos | Processos | Mapear e acompanhar etapas |
+| 🔎 Validador de CNPJ | Qualidade | Apoiar a conferência cadastral |
+| 📈 Dashboard Operacional | Indicadores | Transformar dados em informação |
 
----
+### Acessar os projetos
 
-## 🔄 Fluxo de trabalho
-
-```mermaid
-flowchart LR
-    A[Início] --> B[Cadastro]
-    B --> C[Documentação]
-    C --> D[Validação]
-    D --> E[Produção]
-    E --> F[Envio]
-    F --> G[Conclusão]
-```
-
----
-
-## 🏗️ Arquitetura dos projetos
-
-```mermaid
-flowchart LR
-    A[Fontes de Dados] --> B[Processamento]
-    B --> C[Validação]
-    C --> D[Armazenamento]
-    D --> E[Dashboards]
-    E --> F[Resultados]
-```
+- [01 — Sistema de Controle de Cadastros](projetos/01-controle-cadastros/README.md)
+- [02 — Dashboard de CNPJs e Governos](projetos/02-dashboard-cnpjs-governos/README.md)
+- [03 — Automação de Planilhas](projetos/03-automacao-planilhas/README.md)
+- [04 — Controle de Fluxo de Protestos](projetos/04-fluxo-protestos/README.md)
+- [05 — Validador de CNPJ](projetos/05-validador-cnpj/README.md)
+- [06 — Dashboard Operacional](projetos/06-dashboard-operacional/README.md)
 
 ---
 
-## 🔐 Compromisso com segurança
+## 🔄 Fluxo profissional
 
-Todos os exemplos deste portfólio são **fictícios ou anonimizados**.
+**Cadastro → Documentação → Conferência → Validação → Produção → Envio → Acompanhamento**
 
-Não são publicados dados reais de empresas, CNPJs utilizados em operações internas, documentos, credenciais ou informações confidenciais.
+## 🏗️ Evolução dos projetos
 
----
-
-## 💡 Próximos projetos
-
-- 🌐 Aplicação web para controle de cadastros
-- 🔌 APIs para integração e validação de dados
-- 📧 Automação de e-mails e notificações
-- 🤖 IA para classificação de documentos
-- 🔔 Sistema de alertas de pendências e prazos
-- 📱 Aplicação para acompanhamento de processos
+**Planilhas e bases → Tratamento → Validação → Banco de dados → Dashboard → Automação**
 
 ---
 
-## 📌 Resumo profissional
+## 🔐 Segurança
 
-**Ronaldo Lima**  
-Gestão de Dados • Processos • Cadastros • Automação
-
-Este portfólio representa a evolução de uma experiência prática em operações e dados para uma abordagem cada vez mais orientada a **tecnologia, automação, análise e melhoria contínua**.
+Este portfólio não utiliza dados internos ou confidenciais. Os exemplos devem utilizar dados fictícios, públicos apropriados ou devidamente anonimizados.
 
 ---
 
-⭐ **Obrigado por visitar meu portfólio.**
+## 📄 Currículo
+
+👉 [**Ver meu currículo completo**](CURRICULO.md)
+
+---
+
+## 🛣️ Próxima evolução
+
+1. Criar bases de dados fictícias.
+2. Desenvolver scripts de tratamento com Python.
+3. Criar validações automáticas.
+4. Construir dashboards.
+5. Criar uma aplicação de controle de cadastros.
+6. Integrar APIs.
+7. Criar automações de notificações.
+8. Desenvolver recursos de IA para classificação documental.
+
+---
+
+## 📌 Objetivo profissional
+
+Atuar cada vez mais nas áreas de **gestão de dados, processos, automação e tecnologia**, utilizando a experiência operacional acumulada para desenvolver soluções que aumentem organização, produtividade, qualidade e confiabilidade das informações.
+
+### ⭐ Ronaldo Lima
+**Gestão de Cadastros | Dados | Processos | Automação**
