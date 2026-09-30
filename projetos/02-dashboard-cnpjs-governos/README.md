@@ -1,17 +1,17 @@
 # 02 — Dashboard de CNPJs e Governos
 
-## Objetivo
+## Contexto profissional
+Projeto baseado na necessidade de organizar grandes bases e relacionar CNPJs às respectivas categorias de governo.
 
-Organizar uma base fictícia de CNPJs e classificá-los por tipo de governo ou categoria administrativa.
+## Objetivo
+Criar uma base fictícia estruturada e um painel para análise dos registros.
 
 ## Indicadores
-
-- Quantidade por categoria.
-- Quantidade por situação.
+- Registros por categoria.
+- Registros por situação.
 - Distribuição por período.
-- Pendências cadastrais.
+- Pendências.
 - Registros completos e incompletos.
 
-## Tecnologias
-
-Excel, Power BI, Python/Pandas ou SQL.
+## Competências
+Tratamento de dados, classificação, organização de bases e criação de indicadores.
