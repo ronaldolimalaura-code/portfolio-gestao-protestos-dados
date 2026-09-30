@@ -1,18 +1,19 @@
 # 06 — Dashboard Operacional
 
 ## Objetivo
-
-Criar um painel para acompanhar produtividade, volume de cadastros e pendências.
+Transformar informações operacionais em indicadores fáceis de acompanhar.
 
 ## Indicadores
-
 - Cadastros realizados.
 - Cadastros pendentes.
 - Documentações conferidas.
+- Processos em validação.
 - Processos em produção.
 - Processos concluídos.
 - Volume por período.
 
-## Tecnologias
+## Visão
+**Dados → Tratamento → Indicadores → Dashboard → Acompanhamento operacional**
 
-Power BI, Excel, SQL ou Python.
+## Tecnologias
+Power BI · Excel · SQL · Python
